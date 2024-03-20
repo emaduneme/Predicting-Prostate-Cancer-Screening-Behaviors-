@@ -1,7 +1,7 @@
 # Predicting Prostate Cancer Screening Behaviors from Interpersonal, and Mass Media Factors: A Machine Learning Algorithmic Approach 
 
 ### Emmanuel Maduneme
-### EDUC 640: Educational Data Science Capstone: 
+### EDUC 640: Educational Data Science Capstone 
 
 
 Prostate cancer remains a major public health burden, and promoting regular screening is crucial for early detection and improved outcomes. This study applied machine learning algorithms to a nationally representative survey dataset (Annenberg National Health Communication Survey, 2012) to determine the relative predictive power of various interpersonal and mass media communication factors on self-reported prostate cancer screening behaviors.
